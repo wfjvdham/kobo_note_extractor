@@ -36,4 +36,4 @@ vignettes/*.pdf
 rsconnect/
 
 out.txt
-./input
+input/
